@@ -10,3 +10,8 @@
 10. **Domanda:** Qual è il ruolo della "gestione delle patch" nella sicurezza informatica? 
 11. **Domanda:** Spiega cosa sono i "ransomware" e come ci si può difendere. 
 12. **Domanda:** Cosa si intende per "data exfiltration" e quali tecniche possono essere utilizzate per rilevarla e prevenirla?
+13. **Domanda:** Qual è il ruolo di un "Security Information and Event Management" (SIEM) e come può migliorare la sicurezza di un'organizzazione?
+14. **Domanda:** Spiega l'importanza della gestione delle chiavi crittografiche e le migliori pratiche associate.
+15. **Domanda:** Qual è il principio del "least privilege" e perché è importante nella sicurezza informatica?
+16. **Domanda:** Spiega il concetto di "key exchange".
+
