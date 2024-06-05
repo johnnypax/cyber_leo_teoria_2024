@@ -15,3 +15,9 @@
 15. **Domanda:** Qual è il principio del "least privilege" e perché è importante nella sicurezza informatica?
 16. **Domanda:** Spiega il concetto di "key exchange".
 
+17. **Domanda:** Cos'è un attacco "Man-in-the-Middle" (MitM) e quali tecniche si possono usare per prevenirlo?
+18. **Domanda:** Spiega la differenza tra "hashing" e "crittografia".
+19. **Domanda:** Cos'è un attacco "brute force" e quali sono le strategie per proteggersi?
+20. **Domanda:** Spiega il termine "data integrity" e le tecniche utilizzate per garantirla.
+21. **Domanda:** Cosa sono gli attacchi di tipo "credential stuffing" e come possono essere mitigati?
+22. **Domanda:** Descrivi il concetto di "security by design" e la sua importanza nello sviluppo del software.
