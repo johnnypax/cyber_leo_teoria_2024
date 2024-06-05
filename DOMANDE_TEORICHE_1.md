@@ -6,3 +6,7 @@
 6. **Domanda:** Qual è la differenza tra crittografia simmetrica e asimmetrica? 
 7. **Domanda:** Che cos'è un attacco "phishing" e come ci si può proteggere?
 8. **Domanda:** Spiega il termine "firewall" e la sua funzione principale. 
+9. **Domanda:** Cosa si intende per "intrusion detection system" (IDS)?
+10. **Domanda:** Qual è il ruolo della "gestione delle patch" nella sicurezza informatica? 
+11. **Domanda:** Spiega cosa sono i "ransomware" e come ci si può difendere. 
+12. **Domanda:** Cosa si intende per "data exfiltration" e quali tecniche possono essere utilizzate per rilevarla e prevenirla?
